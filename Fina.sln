@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Api", "Fina.Api\Fina.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{D64C385B-26BD-4CC1-A8DB-075F7B55CB9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.App", "Fina.App\Fina.App.csproj", "{92D713F0-E322-4D02-91DE-D25F3E112DE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{92D713F0-E322-4D02-91DE-D25F3E112DE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
