@@ -13,7 +13,7 @@ public class PagedResponse<TData> : Response<TData>
         : base(data)
     {
         Data = data;
-        totalCount = totalCount;
+        TotalCount = totalCount;
         CurrentPage = currentPage;
         PageSize = pageSize;
     }
